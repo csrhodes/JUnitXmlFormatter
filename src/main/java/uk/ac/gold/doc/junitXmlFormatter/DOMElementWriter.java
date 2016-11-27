@@ -16,7 +16,7 @@
  *
  */
 
-package barrypitman.junitXmlFormatter;
+package uk.ac.gold.doc.junitXmlFormatter;
 
 import java.io.IOException;
 import java.io.OutputStream;

@@ -1,4 +1,4 @@
-package barrypitman.junitXmlFormatter;
+package uk.ac.gold.doc.junitXmlFormatter;
 
 import org.junit.runner.Description;
 import org.junit.runner.Result;

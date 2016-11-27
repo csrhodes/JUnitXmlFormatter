@@ -16,11 +16,13 @@
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
+
 /* This class contains code copied from Apache Ant's
  * org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter class
  * from Ant verson 1.7.1.
  */
-package barrypitman.junitXmlFormatter;
+
+package uk.ac.gold.doc.junitXmlFormatter;
 
 import org.junit.runner.Description;
 import org.junit.runner.Result;

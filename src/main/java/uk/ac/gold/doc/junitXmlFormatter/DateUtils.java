@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  */
-package barrypitman.junitXmlFormatter;
+package uk.ac.gold.doc.junitXmlFormatter;
 
 import java.text.ChoiceFormat;
 import java.text.DateFormat;

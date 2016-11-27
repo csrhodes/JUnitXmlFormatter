@@ -2,13 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>barrypitman</groupId>
+    <groupId>uk.ac.gold.doc</groupId>
     <artifactId>JUnitXmlFormatter</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>junitXmlFormatter</name>
-    <url>https://github.com/barrypitman/JUnitXmlFormatter</url>
+    <url>https://github.com/csrhodes/JUnitXmlFormatter</url>
 
     <description>Contains a JUnit RunListener for generating JUnit XML reports</description>
 
